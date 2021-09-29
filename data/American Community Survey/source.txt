@@ -1,2 +1,0 @@
-url: https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t
-name: U.S. Census Bureau, 2011-2015 American Community Survey 5-Year Estimates
