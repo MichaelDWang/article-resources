@@ -3,6 +3,7 @@
 This file provides relevant resources to our article "Measuring political and economic uncertainty: a supervised computational linguistic approach". We appreciate your citation if our resources are helpful for your researches.
 
 BibTex:
+
 @article{wang2022measuring,
 author={Wang, Michael D.
 and Lou, Jie
